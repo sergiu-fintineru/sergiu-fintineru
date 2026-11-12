@@ -1,14 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sergiu</h1>
-- 🌱 I’m currently learning **Python**
+# Hi there, I'm Sergiu 👋
 
-- 📫 How to reach me **sergiu.fintineru@gmail.com**
+Welcome to my GitHub! I'm a researcher, open-source advocate, and everyday hacker. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sergiu-fintineru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergiu-fintineru" height="30" width="40" /></a>
-<a href="https://fb.com/sergiufintineru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sergiufintineru" height="30" width="40" /></a>
-<a href="https://instagram.com/sergiufintineru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sergiufintineru" height="30" width="40" /></a>
-</p>
+## 🔭 Academic Research
+I am currently pursuing a PhD focused on **rural development**. My research leverages Python and econometric analysis to study European agricultural funding models, specifically analyzing AFIR, APIA, and PNDR data in Romania to better understand rural funding frameworks and institutional efficiency.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🩸 DIY AID Systems
+I am deeply passionate about open-source medical technology. I use and actively teach others how to set up and navigate **DIY AID (Automated Insulin Delivery) systems**, including **Loop, AAPS, and TRio**, alongside the wider ecosystem of related apps. I strongly believe in empowering individuals to take control of their health technology.
+
+## 👾 Hardware & Everyday Hacking
+I love exploring how things work and tinkering with electronics. My maker and hacking interests include:
+*   **Flipper Zero & Flipper One:** Exploring RF, NFC, and everyday hardware hacking.
+*   **Microcontrollers & SBCs:** Building custom automation and electronics projects with **Raspberry Pi** and **Arduino**.
+
+## 💻 Tech Stack & Environment
+I am a dedicated advocate for **open-source software** and reproducible code. My preferred environments and daily drivers revolve entirely around **Unix, Linux, and MacOS**. 
+
+---
+*Feel free to explore my repositories or reach out if you want to collaborate on data analysis, need help navigating the DIY AID space, or just want to chat about open-source tech!*
